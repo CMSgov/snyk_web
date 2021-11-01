@@ -1,0 +1,7 @@
+.usa-hero {
+	background-image: url('/assets/img/hero.jpg');
+}
+
+.usa-hero__callout {
+	max-width: inherit;
+}
