@@ -5,3 +5,16 @@
 .usa-hero__callout {
 	max-width: inherit;
 }
+
+.usa-selection--dark2 {
+	background-color: #1a0829; 
+}
+
+.usa-identifier {
+	font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-size: 1rem;
+	line-height: 1.4;
+	color: white;
+	background-color: #162e51;
+	padding-bottom: 1rem;
+}
